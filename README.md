@@ -1,8 +1,8 @@
 # UASWeb Pemrograman
 
-> NAMA  : FAHMI PRAYOGA
+> **NAMA  : FAHMI PRAYOGA**
 
-> NIM   : 311910682
+> **NIM   : 311910682**
 
-> KELAS : TI.19.A.2
+> **KELAS : TI.19.A.2**
 
