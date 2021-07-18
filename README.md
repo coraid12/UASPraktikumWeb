@@ -24,7 +24,7 @@
 | USERNAME | PASSWORD | LOKET |
 | ------ | ------ || ------ |
 | umum | password | loket 1 |
-| gigi | password |
-| anak | password |
-| kandungan | password |
-| kulit | password |
+| gigi | password | loket 1 |
+| anak | password | loket 1 |
+| kandungan | password | loket 1 |
+| kulit | password | loket 1 |
