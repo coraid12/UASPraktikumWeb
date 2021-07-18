@@ -13,9 +13,14 @@
 
 # Petunjuk Demo
 ### Login
-Daftar akun Penjaga Loket
+Data akun Admin
 
-| USERNAME | PASSWORDE |
+| USERNAME | PASSWORD |
+| ------ | ------ |
+| admin27 | password |
+
+Data akun Penjaga Loket
+| USERNAME | PASSWORD |
 | ------ | ------ |
 | umum | password |
 | gigi | password |
