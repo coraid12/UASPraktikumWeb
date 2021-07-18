@@ -1,4 +1,4 @@
-# UASWeb Pemrograman
+# UASPraktikum Pemrograman Web
 
 > **NAMA  : FAHMI PRAYOGA**
 
