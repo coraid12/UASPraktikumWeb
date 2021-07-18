@@ -7,6 +7,6 @@
 > **KELAS : TI.19.A.2**
 
 
-- Link Youtube  : UNDER CONSTRUCTION
+- Link Youtube  : https://youtu.be/uex1B_8bLdg
 
 - Link Demo     : UNDER CONSTRUCTION
