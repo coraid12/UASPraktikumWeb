@@ -20,6 +20,7 @@
 | admin27 | password |
 
 - Data akun Penjaga Loket
+
 | USERNAME | PASSWORD |
 | ------ | ------ |
 | umum | password |
