@@ -23,7 +23,7 @@
 
 | USERNAME | PASSWORD |
 | ------ | ------ |
-| umum | password |
+| umum | password | loket 1 |
 | gigi | password |
 | anak | password |
 | kandungan | password |
