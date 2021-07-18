@@ -13,13 +13,13 @@
 
 # Petunjuk Demo
 ### Login
-Data akun Admin
+- Data akun Admin
 
 | USERNAME | PASSWORD |
 | ------ | ------ |
 | admin27 | password |
 
-Data akun Penjaga Loket
+- Data akun Penjaga Loket
 | USERNAME | PASSWORD |
 | ------ | ------ |
 | umum | password |
