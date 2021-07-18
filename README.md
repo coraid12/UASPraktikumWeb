@@ -21,8 +21,8 @@
 
 - Data akun Penjaga Loket
 
-| USERNAME | PASSWORD |
-| ------ | ------ |
+| USERNAME | PASSWORD | LOKET |
+| ------ | ------ || ------ |
 | umum | password | loket 1 |
 | gigi | password |
 | anak | password |
