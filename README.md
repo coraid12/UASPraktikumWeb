@@ -7,9 +7,9 @@
 > **KELAS : TI.19.A.2**
 
 
-## 🔗 Youtube  : https://youtu.be/uex1B_8bLdg
+## 🔗 Youtube  .: https://youtu.be/uex1B_8bLdg
 
-## 🔗 Demo     : https://looket.000webhostapp.com/
+## 🔗 Demo     .: https://looket.000webhostapp.com/
 
 # Petunjuk Penggunaan Demo
 
