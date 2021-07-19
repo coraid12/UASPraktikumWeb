@@ -7,9 +7,7 @@
 > **KELAS : TI.19.A.2**
 
 ## 🔗 Links
-[1]: http://www.github.com/your_contact_info
-[2]: https://www.linkedin.com/in/your_contact_info
-[3]: https://www.facebook.com/your_contact_info
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Link Youtube  : https://youtu.be/uex1B_8bLdg
 
 Link Demo     : https://looket.000webhostapp.com/
