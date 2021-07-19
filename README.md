@@ -7,7 +7,7 @@
 > **KELAS : TI.19.A.2**
 
 ## 🔗 Links
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[![Youtube](https://image.flaticon.com/icons/png/128/1383/1383260.png)](https://youtu.be/uex1B_8bLdg)
 Link Youtube  : https://youtu.be/uex1B_8bLdg
 
 Link Demo     : https://looket.000webhostapp.com/
