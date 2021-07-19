@@ -6,10 +6,11 @@
 
 > **KELAS : TI.19.A.2**
 
-|---------------------------------------------|
-| Link Youtube  : https://youtu.be/uex1B_8bLdg |
+```python
+Link Youtube  : https://youtu.be/uex1B_8bLdg
 
-| Link Demo     : https://looket.000webhostapp.com/ |
+Link Demo     : https://looket.000webhostapp.com/
+```
 
 # Petunjuk Penggunaan Demo
 
