@@ -6,15 +6,14 @@
 
 > **KELAS : TI.19.A.2**
 
-## 🔗 Links
 
 [![Youtube](https://image.flaticon.com/icons/png/128/1383/1383260.png)](https://youtu.be/uex1B_8bLdg)
 
-**Link Youtube  :** https://youtu.be/uex1B_8bLdg
+## Link Youtube  : https://youtu.be/uex1B_8bLdg
 
 [![Youtube](https://image.flaticon.com/icons/png/128/5110/5110630.png)](https://looket.000webhostapp.com/)
 
-**Link Demo     :** https://looket.000webhostapp.com/
+## Link Demo     : https://looket.000webhostapp.com/
 
 # Petunjuk Penggunaan Demo
 
