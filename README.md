@@ -12,6 +12,10 @@
 - Link Demo     : https://looket.000webhostapp.com/
 
 # Petunjuk Demo
+
+### Nomor Antrian Reset Per Hari
+- Ambil Nomer antrian dahulu lalu login akun penjaga agar program dapat berjalan
+
 ### Login
 - Data akun Admin
 
