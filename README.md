@@ -16,16 +16,16 @@
 # Petunjuk Demo
 
 ### Nomor Antrian Reset Per Hari
-- Ambil Nomer antrian dahulu lalu login akun penjaga agar program dapat berjalan
+- **Ambil Nomer antrian dahulu lalu login akun penjaga agar program dapat berjalan**
 
 ### Login
-- Data akun Admin
+- **Data akun Admin**
 
 | USERNAME | PASSWORD |
 | ------ | ------ |
 | admin27 | password |
 
-- Data akun Penjaga Loket
+- **Data akun Penjaga Loket**
 
 | USERNAME | PASSWORD | LOKET |
 | ------ | ------ | ------ |
