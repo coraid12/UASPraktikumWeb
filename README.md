@@ -11,7 +11,7 @@
 
 - Link Demo     : https://looket.000webhostapp.com/
 
-- Link File     : UPLOADING.......
+- Link File(RAR): https://drive.google.com/file/d/1S7KEjgiFxv0EOA9mBXzDIt71u12w6SO8/view?usp=sharing
 
 # Petunjuk Penggunaan Demo
 
