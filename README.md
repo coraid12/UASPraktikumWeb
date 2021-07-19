@@ -8,11 +8,11 @@
 
 ## 🔗 Links
 
-Link Youtube  :
+**Link Youtube  :**
 
 [![Youtube](https://image.flaticon.com/icons/png/128/1383/1383260.png)](https://youtu.be/uex1B_8bLdg)
 
-Link Demo     : 
+**Link Demo     :** 
 
 [![Youtube](https://image.flaticon.com/icons/png/128/5110/5110630.png)](https://looket.000webhostapp.com/)
 
