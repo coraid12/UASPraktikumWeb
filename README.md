@@ -9,7 +9,7 @@
 
 ## 🔗 Youtube  : https://youtu.be/uex1B_8bLdg
 
-[![Youtube](https://image.flaticon.com/icons/png/128/1383/1383260.png)](https://youtu.be/uex1B_8bLdg)
+[![Youtube](https://www.youtube.com/watch?v=uex1B_8bLdg)](https://youtu.be/uex1B_8bLdg)
 
 ## 🔗 Demo     : https://looket.000webhostapp.com/
 
