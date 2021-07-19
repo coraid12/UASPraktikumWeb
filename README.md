@@ -7,7 +7,7 @@
 > **KELAS : TI.19.A.2**
 
 ## 🔗 Links
-[![Youtube](https://img.youtube.com/vi/uex1B_8bLdg/0.jpg)](https://www.youtube.com/watch?v=uex1B_8bLdg)
+[![Youtube](https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png)](https://www.youtube.com/watch?v=uex1B_8bLdg)
 
 Link Youtube  : https://youtu.be/uex1B_8bLdg
 
